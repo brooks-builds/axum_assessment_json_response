@@ -1,0 +1,58 @@
+[
+  {
+    "name": "javascript",
+    "popularity": 0.6361
+  },
+  {
+    "name": "HTML/CSS",
+    "popularity": 0.5287
+  },
+  {
+    "name": "Python",
+    "popularity": 0.4928
+  },
+  {
+    "name": "SQL",
+    "popularity": 0.4866
+  },
+  {
+    "name": "TypeScript",
+    "popularity": 0.3887
+  },
+  {
+    "name": "Bash/Shell (all shells)",
+    "popularity": 0.3237
+  },
+  {
+    "name": "Java",
+    "popularity": 0.3055
+  },
+  {
+    "name": "C#",
+    "popularity": 0.2762
+  },
+  {
+    "name": "C++",
+    "popularity": 0.2242
+  },
+  {
+    "name": "C",
+    "popularity": 0.1934
+  },
+  {
+    "name": "PHP",
+    "popularity": 0.1858
+  },
+  {
+    "name": "PowerShell",
+    "popularity": 0.1359
+  },
+  {
+    "name": "Go",
+    "popularity": 0.1324
+  },
+  {
+    "name": "Rust",
+    "popularity": 0.1305
+  }
+]
