@@ -16,7 +16,7 @@ else
   exit 2
 fi
 
-if $(cargo clippy >> check.out 2> check.out)
+if $(cargo clippy -- -Dwarnings >> check.out 2> check.out)
 then
   echo "clippy happy"
 else
